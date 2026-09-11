@@ -10,3 +10,7 @@
 'use strict';
 
 // TODO: écris ta solution ici.
+
+const fruits = ["Pomme" , "Banane" , "Orange"]
+fruits[1] = "Mangue"
+console.log(fruits[1]);
