@@ -106,7 +106,7 @@ la propriété `.length`d'un tableau vide `[]`retourne 0
 - [ ] J'ai recherché et compris la notion.
 
 **Ma réponse :**
-
+`.slice()` prend une partie du tableau sans modifier le tableau original et `.splice()` modifie le tableau original elle permet de supprimer, ajouter ou remplacer des éléments
 > À compléter avec mes propres mots.
 
 ---
