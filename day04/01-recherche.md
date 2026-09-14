@@ -103,7 +103,7 @@ la propriété `.length`d'un tableau vide `[]`retourne 0
 
 > Quelle est la différence entre `.slice()` et `.splice()` lors de la manipulation d'un tableau ?
 
-- [ ] J'ai recherché et compris la notion.
+- [x] J'ai recherché et compris la notion.
 
 **Ma réponse :**
 `.slice()` prend une partie du tableau sans modifier le tableau original et `.splice()` modifie le tableau original elle permet de supprimer, ajouter ou remplacer des éléments
