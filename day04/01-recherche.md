@@ -48,17 +48,17 @@ La méthode `.push()` ajoute des valeurs à la fin d'un tableau et la méthode `
 **Ma réponse :**
 La méthode `.pop()` supprime le dernier élément d'un tableau et la méthode `.shift()`supprime le premier élément d'un tableau
 > À compléter avec mes propres mots.
-
+ 
 ---
-
+ 
 ### Question 04
 
 > Que retourne la propriété `.length` d'un tableau vide `[]` ?
 
-- [ ] J'ai recherché et compris la notion.
+- [x] J'ai recherché et compris la notion.
 
 **Ma réponse :**
-
+la propriété `.length`d'un tableau vide `[]`retourne 0
 > À compléter avec mes propres mots.
 
 ---
