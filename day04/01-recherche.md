@@ -18,11 +18,11 @@
 ### Question 01
 
 > En JavaScript, le premier élément d'un tableau se trouve à quel index ?
-0
-- [ ] J'ai recherché et compris la notion.
+
+- [x] J'ai recherché et compris la notion.
 
 **Ma réponse :**
-
+0
 > À compléter avec mes propres mots.
 
 ---
@@ -31,10 +31,10 @@
 
 > Quelle est la différence entre les méthodes `.push()` et `.unshift()` ?
 
-- [ ] J'ai recherché et compris la notion.
+- [x] J'ai recherché et compris la notion.
 
 **Ma réponse :**
-
+La méthode `.push()` ajoute des valeurs à la fin d'un tableau et la méthode `.unshift()` au debut d'un tableau
 > À compléter avec mes propres mots.
 
 ---
@@ -43,10 +43,10 @@
 
 > Quelle est la différence entre `.pop()` et `.shift()` ?
 
-- [ ] J'ai recherché et compris la notion.
+- [x] J'ai recherché et compris la notion.
 
 **Ma réponse :**
-
+La méthode `.pop()` supprime le dernier élément d'un tableau et la méthode `.shift()`supprime le premier élément d'un tableau
 > À compléter avec mes propres mots.
 
 ---
