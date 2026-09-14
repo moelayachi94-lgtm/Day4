@@ -10,3 +10,8 @@
 'use strict';
 
 // TODO: écris ta solution ici.
+let attentefile = ["Alice", "Bob", "Charlie"]
+attentefile.shift()
+attentefile.push("david")
+
+console.log(attentefile);
