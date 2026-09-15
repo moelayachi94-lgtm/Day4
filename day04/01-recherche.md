@@ -79,10 +79,10 @@ la propriété `.length`d'un tableau vide `[]`retourne 0
 
 > Comment vérifier si une variable est bien un tableau (puisque `typeof []` renvoie `"object"`) ?
 
-- [ ] J'ai recherché et compris la notion.
+- [x] J'ai recherché et compris la notion.
 
 **Ma réponse :**
-
+la méthode pour vérifier si une variable est un tableau est Array.isArray().
 > À compléter avec mes propres mots.
 
 ---
@@ -90,7 +90,12 @@ la propriété `.length`d'un tableau vide `[]`retourne 0
 ### Question 07
 
 > Quelle méthode utiliseriez-vous pour fusionner deux tableaux en un seul ?
+En utilise l'opérateur spread (...)
+Ex : let tableau1 = [a,b,c,]
+     let tableau2 = [d,e,f,]
+     let tableau3 = [...tableau1, ...tableau2]
 
+     console.log(tableau3)
 - [ ] J'ai recherché et compris la notion.
 
 **Ma réponse :**
