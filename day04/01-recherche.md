@@ -96,7 +96,7 @@ Ex : let tableau1 = [a,b,c,]
      let tableau3 = [...tableau1, ...tableau2]
 
      console.log(tableau3)
-- [ ] J'ai recherché et compris la notion.
+- [x] J'ai recherché et compris la notion.
 
 **Ma réponse :**
 
