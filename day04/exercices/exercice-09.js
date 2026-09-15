@@ -15,3 +15,14 @@
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
 // TODO: écris ta solution ici.
+
+function exfunc (tableau){
+    let nvtab = []
+    for ( let num of tableau){
+        if (num % 2 === 0 )
+            nvtab.push(num)
+    }
+    return nvtab
+}
+let exemple = [10, 55, 88 ,65 , 1, 3 ]
+console.log(exfunc(exemple));
